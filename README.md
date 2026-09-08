@@ -1,6 +1,6 @@
 # Uchronics
 
-Ici reposent les sources publiques du projet uchronics.
+Ici reposent les sources publiques du projet Uchronics.
 
 Présentes sous formes de versions server ou client.
 
