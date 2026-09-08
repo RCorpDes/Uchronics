@@ -6,7 +6,7 @@ Available in server or client versions.
 
 If this repository contains an archive, it means the project made it to completion. Otherwise...
 
-If this repository contains SEVERAL archives, it means people liked it.
+If this repository contains SEVERAL archives, it means people liked it. </br>
 So I'll keep going...
 
 
@@ -19,5 +19,5 @@ Présentes sous forme de versions serveur ou client.
 
 Si ce répertoire contient une archive, c'est qu'il a abouti. Sinon...
 
-Si ce répertoire contient PLUSIEURS archives, c'est que ça a plu.
+Si ce répertoire contient PLUSIEURS archives, c'est que ça a plu. </br>
 Donc je continuerai...
