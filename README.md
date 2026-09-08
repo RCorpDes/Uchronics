@@ -1,6 +1,6 @@
 # Uchronics ( 🇬🇧 English version)
 
-This is where the public source code for the <b><i><u>Uchronics</u></i></b> project lives.
+This is where the public source code for the <b><i>Uchronics</i></b> project lives.
 
 Available in server or client versions.
 
@@ -14,7 +14,7 @@ So I'll keep going...
 
 # Uchronics ( 🇫🇷 Version française / French version)
 
-Ici reposent les sources publiques du projet <b><i><u>Uchronics</u></i></b>.
+Ici reposent les sources publiques du projet <b><i>Uchronics</i></b>.
 
 Présentes sous forme de versions serveur ou client.
 
