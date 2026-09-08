@@ -1,4 +1,4 @@
-# Uchronics ( 🇬🇧 English version)
+# <i>Uchronics</i> ( 🇬🇧 English version)
 
 This is where the public source code for the <b><i>Uchronics</i></b> project lives.
 
@@ -12,7 +12,7 @@ So I'll keep going...
 
 </br></br>
 
-# Uchronics ( 🇫🇷 Version française / French version)
+# <i>Uchronics</i> ( 🇫🇷 Version française / French version)
 
 Ici reposent les sources publiques du projet <b><i>Uchronics</i></b>.
 
