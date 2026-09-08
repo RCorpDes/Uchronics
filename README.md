@@ -12,7 +12,7 @@ So I'll keep going...
 
 
 
-# 🇫🇷 Uchronics (French version/version Française)
+# 🇫🇷 Uchronics (French version / version française)
 
 Ici reposent les sources publiques du projet Uchronics.
 
