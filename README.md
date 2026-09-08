@@ -4,8 +4,8 @@ This is where the public source code for the Uchronics project lives.
 
 Available as server or client versions.
 
-If this repository contains an archive, it means the project made it to completion. Otherwise...
-If this repository contains SEVERAL archives, it means people liked it.
+If this repository contains an archive, it means the project made it to completion. Otherwise... </br>
+And if this repository contains SEVERAL archives, it means people liked it.
 
 So I'll keep going...
 
