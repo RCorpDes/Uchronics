@@ -1,4 +1,4 @@
-# 🇬🇧 Uchronics (English version)
+# 🇬🇧  Uchronics (English version)
 
 This is where the public source code for the Uchronics project lives.
 
@@ -12,7 +12,7 @@ So I'll keep going...
 
 
 
-# 🇫🇷 Uchronics (French version / version française)
+# 🇫🇷  Uchronics (French version / version française)
 
 Ici reposent les sources publiques du projet Uchronics.
 
